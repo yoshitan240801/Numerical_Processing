@@ -5,9 +5,9 @@
 
 
 ## 概要
----
+<!-- ---
 marp: true
-theme: default
+theme: default -->
 ---
 
 # 不動産価格予測システム
@@ -126,7 +126,7 @@ graph TD
 
 
 
-![図1](./work/slide_01.png)
+<!-- ![図1](./work/slide_01.png)
 
 ![図2](./work/slide_02.png)
 
@@ -134,7 +134,7 @@ graph TD
 
 ![図4](./work/slide_04.png)
 
-![図5](./work/slide_05.png)
+![図5](./work/slide_05.png) -->
 
 ## 内容
 
